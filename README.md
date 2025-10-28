@@ -10,9 +10,9 @@ This project is my midterm is an Inventory Management System built with Laravel.
 - Document the project in Markdown
 
 ## Features / Functionality
-- Add, edit, and delete inventory items
-- 
-- 
+- Add, edit, and delete inventory products
+- Add categories
+- Search products 
 - Collaborative version control using Git
 
 ## Installation Instructions
